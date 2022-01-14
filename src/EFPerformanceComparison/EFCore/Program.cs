@@ -1,12 +1,12 @@
-﻿using System;
+﻿using BenchmarkDotNet.Running;
 
-namespace EFCore
+namespace EFPerformanceComparison.EFCoreThree
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BenchmarkRunner.Run<BenchMarks>();
         }
     }
 }

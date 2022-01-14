@@ -1,12 +1,12 @@
-﻿using System;
+﻿using BenchmarkDotNet.Running;
 
-namespace EF6
+namespace EFPerformanceComparison.EFSix
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Done");
+            BenchmarkRunner.Run<BenchMarks>();
         }
     }
 }

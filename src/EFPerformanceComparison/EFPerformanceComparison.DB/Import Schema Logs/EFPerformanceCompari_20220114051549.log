@@ -1,0 +1,84 @@
+14/01/2022 17:15:49	This log contains information about the import schema operation into project 'EFPerformanceComparison.DB' on computer 'DESKTOP-JON' by user 'jon_r'.
+14/01/2022 17:15:50	Import of database schema has started.
+14/01/2022 17:15:55	Gathering database credentials
+14/01/2022 17:15:55	Gathering database options
+14/01/2022 17:15:55	Gathering users
+14/01/2022 17:15:55	Gathering roles
+14/01/2022 17:15:55	Gathering application roles
+14/01/2022 17:15:55	Gathering role memberships
+14/01/2022 17:15:55	Gathering filegroups
+14/01/2022 17:15:55	Gathering full-text catalogs
+14/01/2022 17:15:55	Gathering assemblies
+14/01/2022 17:15:55	Gathering certificates
+14/01/2022 17:15:55	Gathering asymmetric keys
+14/01/2022 17:15:55	Gathering symmetric keys
+14/01/2022 17:15:55	Gathering encrypted symmetric keys
+14/01/2022 17:15:55	Gathering schemas
+14/01/2022 17:15:55	Gathering XML schema collections
+14/01/2022 17:15:55	Gathering user-defined data types
+14/01/2022 17:15:55	Gathering user-defined types
+14/01/2022 17:15:55	Gathering table types
+14/01/2022 17:15:55	Gathering unique keys for table types
+14/01/2022 17:15:55	Gathering primary keys for table types
+14/01/2022 17:15:55	Gathering indexes for table types
+14/01/2022 17:15:55	Gathering check constraints for table types
+14/01/2022 17:15:55	Gathering default constraints for table types
+14/01/2022 17:15:55	Gathering partition functions
+14/01/2022 17:15:55	Gathering partition schemes
+14/01/2022 17:15:55	Gathering functions
+14/01/2022 17:15:55	Gathering encrypted functions
+14/01/2022 17:15:55	Gathering aggregates
+14/01/2022 17:15:55	Gathering procedures
+14/01/2022 17:15:55	Gathering encrypted procedures
+14/01/2022 17:15:55	Gathering tables
+14/01/2022 17:15:55	Gathering primary keys
+14/01/2022 17:15:55	Gathering unique constraints
+14/01/2022 17:15:55	Gathering foreign keys
+14/01/2022 17:15:55	Gathering default constraints
+14/01/2022 17:15:55	Gathering check constraints
+14/01/2022 17:15:55	Gathering views
+14/01/2022 17:15:55	Gathering encrypted views
+14/01/2022 17:15:55	Gathering indexes
+14/01/2022 17:15:55	Gathering statistics
+14/01/2022 17:15:55	Gathering full-text index stoplists
+14/01/2022 17:15:55	Gathering search property lists
+14/01/2022 17:15:55	Gathering search properties
+14/01/2022 17:15:55	Gathering full-text indexes
+14/01/2022 17:15:55	Gathering column store indexes
+14/01/2022 17:15:55	Gathering spatial indexes
+14/01/2022 17:15:55	Gathering XML indexes
+14/01/2022 17:15:55	Gathering Selective XML indexes
+14/01/2022 17:15:55	Gathering encrypted triggers
+14/01/2022 17:15:55	Gathering triggers
+14/01/2022 17:15:55	Gathering encrypted and clr ddl triggers
+14/01/2022 17:15:55	Gathering ddl triggers
+14/01/2022 17:15:55	Gathering synonyms
+14/01/2022 17:15:55	Gathering defaults
+14/01/2022 17:15:55	Gathering data constraint uddt bindings
+14/01/2022 17:15:55	Gathering rules
+14/01/2022 17:15:55	Gathering data constraint uddt bindings
+14/01/2022 17:15:55	Gathering message types
+14/01/2022 17:15:55	Gathering queues
+14/01/2022 17:15:55	Gathering contracts
+14/01/2022 17:15:55	Gathering services
+14/01/2022 17:15:55	Gathering event notifications
+14/01/2022 17:15:55	Gathering remote service bindings
+14/01/2022 17:15:55	Gathering broker priorities
+14/01/2022 17:15:55	Gathering signatures
+14/01/2022 17:15:55	Gathering data compression options
+14/01/2022 17:15:55	Gathering sequence types
+14/01/2022 17:15:55	Gathering security policies
+14/01/2022 17:15:55	Gather column encryption keys
+14/01/2022 17:15:55	Gathering column master keys
+14/01/2022 17:15:55	Gathering external data sources
+14/01/2022 17:15:55	Gathering external file formats
+14/01/2022 17:15:55	Gathering external tables
+14/01/2022 17:15:55	Gathering extended properties
+14/01/2022 17:15:55	Gathering credentials
+14/01/2022 17:15:55	Gathering logins
+14/01/2022 17:15:55	Gathering server audits
+14/01/2022 17:15:56	Scanning project for duplicate elements
+14/01/2022 17:15:57	Finished duplicate element processing
+14/01/2022 17:15:57	Finished importing database.
+14/01/2022 17:15:57	A summary of the import was saved to the following location: C:\Users\jon_r\source\repos\chadgolden.com-Blog-.NET-Projects\src\EFPerformanceComparison\EFPerformanceComparison.DB\Import Schema Logs\EFPerformanceCompari_20220114051549.log
+14/01/2022 17:15:57	Click Finish to continue...
